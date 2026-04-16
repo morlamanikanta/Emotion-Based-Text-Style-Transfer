@@ -1,0 +1,11 @@
+# torch>=2.0.0 #for smolLM
+# transformers>=4.30.0 #for smolLM
+gradio>=4.0.0 #for smolLM & openrouter
+requests>=2.25.0 #for openrouter
+python-dotenv>=1.0.0 #for openrouter
+PyPDF2
+python-docx
+reportlab
+fpdf2
+pymupdf
+pdfplumber
